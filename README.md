@@ -68,8 +68,8 @@ An addressable LED matrix display project using ESP32 and WLED.
 
 🤝 Connect With Me
 
-- LinkedIn: "Add Your LinkedIn URL" (https://www.linkedin.com/)
-- GitHub: "Add Your GitHub Profile URL" (https://github.com/)
+- LinkedIn: "Add Your LinkedIn URL" (https://www.linkedin.com/in/sourav-kumar-3a9108353/)
+- GitHub: "Add Your GitHub Profile URL" (/)
 
 ---
 
